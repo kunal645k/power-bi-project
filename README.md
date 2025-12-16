@@ -9,6 +9,9 @@ This Power BI dashboard analyzes clothing e-commerce sales data to uncover meani
 - Monitor profit, discounts, and order trends
 - Identify seasonal and regional sales insights
 
+## Dataset Used
+- <a href="https://github.com/kunal645k/power-bi-project/blob/main/Details.csv">Detail dataset<a>
+- <a href="https://github.com/kunal645k/power-bi-project/blob/main/Orders.csv">Order dataset<a>
 ## Dashboard Highlights
 - Total Sales, Profit & Quantity Sold
 - Category-wise and Product-wise Sales Analysis
