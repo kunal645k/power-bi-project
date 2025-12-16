@@ -18,3 +18,7 @@ This Power BI dashboard analyzes clothing e-commerce sales data to uncover meani
 - Monthly / Yearly Sales Trends
 - Customer & Order Analysis
 - Interactive slicers for dynamic filtering
+
+## Dashboard
+- <a href="https://github.com/kunal645k/power-bi-project/blob/main/2nd%20dashboard.pbix">Dashboard<a>
+
