@@ -21,5 +21,4 @@ This Power BI dashboard analyzes clothing e-commerce sales data to uncover meani
 
 ## Dashboard
 - <a href="https://github.com/kunal645k/power-bi-project/blob/main/2ND%20DASHBOARD.png">Dashboard<a>
-- <a href="https://github.com/kunal645k/power-bi-project/blob/main/2ND%20DASHBOARD.png?raw=true"><a>
 
