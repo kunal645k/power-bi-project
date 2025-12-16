@@ -20,5 +20,5 @@ This Power BI dashboard analyzes clothing e-commerce sales data to uncover meani
 - Interactive slicers for dynamic filtering
 
 ## Dashboard
-- <a href="https://github.com/kunal645k/power-bi-project/blob/main/2nd%20dashboard.pbix">Dashboard<a>
+- <a href="[https://github.com/kunal645k/power-bi-project/blob/main/2nd%20dashboard.pbix](https://github.com/kunal645k/power-bi-project/blob/main/2ND%20DASHBOARD.png)">Dashboard<a>
 
